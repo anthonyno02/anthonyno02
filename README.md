@@ -9,7 +9,7 @@ Olá sou o Anthony, por aqui você pode conhecer um pouco sobre eu e meu trabalh
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## GitHub Stats
+## Estatísticas GitHub
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=anthonyno02)](https://github.com/FajarKim/github-readme-profile)
 
 ## Minhas Contribuições
